@@ -246,14 +246,12 @@ public struct CameraView: View {
     var photoPreviewStack: some View {
         ZStack {
             ForEach(viewModel.photos.sorted(by: <)) { photo in
-                if let image = photo.image {
-                    Image(uiImage: image)
-                        .resizable()
-                        .scaledToFill()
-                        .frame(width: 100, height: 100)
-                        .clipped()
-                        .transition(.move(edge: .bottom))
-                }
+                Image(uiImage: photo.image)
+                    .resizable()
+                    .scaledToFill()
+                    .frame(width: 100, height: 100)
+                    .clipped()
+                    .transition(.move(edge: .bottom))
             }
         }
         .clipped()

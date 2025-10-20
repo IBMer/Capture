@@ -316,7 +316,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Capture/Preview Content\"";
-				DEVELOPMENT_TEAM = 9TYSSFKV5U;
+				DEVELOPMENT_TEAM = W6Z74AAG7E;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Capture requires the access to the camera to capture the moment around you.";
@@ -350,7 +350,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Capture/Preview Content\"";
-				DEVELOPMENT_TEAM = 9TYSSFKV5U;
+				DEVELOPMENT_TEAM = W6Z74AAG7E;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Capture requires the access to the camera to capture the moment around you.";
